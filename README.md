@@ -204,6 +204,3 @@ Data Analyst | WSB University Warsaw — Data Science M.Sc.
 
 ---
 
-## 📄 License
-
-This project is for academic purposes — WSB University, Semester 4 Team Project.
